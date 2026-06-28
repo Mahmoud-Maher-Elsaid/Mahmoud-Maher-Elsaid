@@ -4,18 +4,18 @@
 
 I am an Artificial Intelligence student specializing in Intelligent Systems at the Arab Academy for Science, Technology and Maritime Transport.
 
-I build applied AI projects using Python, machine learning, computer vision, reinforcement learning, and data analysis. I am currently developing a professional portfolio for internships, junior AI/Data roles, and freelance opportunities.
+I build applied AI projects using Python, machine learning, computer vision, reinforcement learning, RAG systems, and data analysis. I am currently developing a professional portfolio for remote internships, junior AI/Data roles, freelance opportunities, and entry-level applied machine learning work.
 
 ---
 
 ## Technical Focus
 
-* Python, Jupyter Notebook, Git, GitHub
-* Data cleaning, EDA, data visualization
+* Python, Jupyter Notebook, Git, GitHub, VS Code
+* Data cleaning, EDA, data visualization, Microsoft Excel
 * Machine learning with scikit-learn
 * Deep learning with TensorFlow/Keras and PyTorch basics
 * Computer vision and image processing with OpenCV
-* Reinforcement learning: Q-Learning, SARSA, Monte Carlo
+* Reinforcement learning: Q-Learning, SARSA, First-Visit Monte Carlo, Webots, Gymnasium
 * RAG systems, embeddings, Chroma, and prompt design
 
 ---
@@ -23,19 +23,22 @@ I build applied AI projects using Python, machine learning, computer vision, rei
 ## Featured Work
 
 * **Skin Lesion Segmentation and Localization**
-  Medical computer vision project for lesion segmentation and localization.
+  Medical computer vision project for lesion segmentation and localization using image preprocessing, masks, training, validation, and visual outputs.
 
 * **Reinforcement Learning GridWorld with Webots**
-  RL project comparing Q-Learning, SARSA, and First-Visit Monte Carlo.
+  Reinforcement learning project comparing Q-Learning, SARSA, and First-Visit Monte Carlo in a GridWorld environment with Webots simulation.
 
 * **Financial Report RAG Assistant**
-  RAG workflow for financial report question answering using embeddings and vector search.
+  Retrieval-augmented generation workflow for financial report question answering using document chunking, embeddings, vector search, and response generation.
 
 * **Sudoku Solver from Camera**
-  Computer vision pipeline for board detection, cell extraction, digit recognition, and solving.
+  Computer vision pipeline for Sudoku board detection, perspective correction, cell extraction, digit recognition, solving, and visualization.
 
-* **Personal AI Portfolio Website**
-  A GitHub Pages website presenting my AI, data, CV, and RL projects.
+* **SimpleML Library from Scratch**
+  Educational machine learning library built from scratch to practice algorithm implementation, training logic, and reusable component design.
+
+* **CIFAR-10 Image Classifier API**
+  Image classification workflow with a simple FastAPI inference interface, practicing preprocessing, evaluation, and deployment-oriented project structure.
 
 ---
 
@@ -50,12 +53,18 @@ I build applied AI projects using Python, machine learning, computer vision, rei
 
 ### Machine Learning - L1 Badge — Coursera / MBRF / UNDP
 
-* Covered supervised learning, unsupervised learning, neural networks, TensorFlow, scikit-learn, and reinforcement learning fundamentals
+* Covered supervised learning, unsupervised learning, neural networks, model evaluation, TensorFlow, scikit-learn, and reinforcement learning fundamentals
 
 [View Credential](https://coursera.org/share/21ddaec458872b13249fc0526e8c1aa1)
 
 ---
 
+## CV
+
+[Download My CV](./Mahmoud_Maher_El-Said_CV.pdf)
+
+---
+
 ## Current Goal
 
-I am focused on building clean, documented AI/Data projects and preparing for remote internships, junior AI/Data roles, and freelance work.
+I am focused on building clean, documented AI/Data projects and preparing for remote internships, junior AI/Data roles, freelance work, and entry-level applied machine learning opportunities.
